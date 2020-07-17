@@ -1,7 +1,7 @@
 {
   "private": true,
   "dependencies": {
-    "angular": "^1.7.4",
+    "angular": "^1.7.9",
     "angular-hotkeys": "^1.7.0",
     "bootstrap": "^3.3.7",
     "favico.js": "^0.3.10",
