@@ -5,7 +5,7 @@
     "angular-hotkeys": "^1.7.0",
     "bootstrap": "^3.3.7",
     "favico.js": "^0.3.10",
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.17"
   },
   "devDependencies": {
     "clean-webpack-plugin": "^0.1.19",
